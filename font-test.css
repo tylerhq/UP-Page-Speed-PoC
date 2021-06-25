@@ -1,0 +1,111 @@
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-ThinItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-Thin.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-RegularItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-SemiboldItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-Semibold.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-BoldItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-Bold.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-HeavyItalic.woff) format('woff');
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src:url(../../fonts/Lato/woff/Lato-Heavy.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src:url(../../fonts/PTSerif/woff/PT-Serif-Regular-Italic.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src:url(../../fonts/PTSerif/woff/PT-Serif-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src:url(../../fonts/PTSerif/woff/PT-Serif-Bold-Italic.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src:url(../../fonts/PTSerif/woff/PT-Serif-Bold.woff) format('woff');
+}
